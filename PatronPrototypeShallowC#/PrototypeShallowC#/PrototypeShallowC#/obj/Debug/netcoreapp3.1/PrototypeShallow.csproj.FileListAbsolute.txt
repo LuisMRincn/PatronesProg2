@@ -1,0 +1,12 @@
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\bin\Debug\netcoreapp3.1\PrototypeShallow.exe
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\bin\Debug\netcoreapp3.1\PrototypeShallow.deps.json
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\bin\Debug\netcoreapp3.1\PrototypeShallow.runtimeconfig.json
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\bin\Debug\netcoreapp3.1\PrototypeShallow.runtimeconfig.dev.json
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\bin\Debug\netcoreapp3.1\PrototypeShallow.dll
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\bin\Debug\netcoreapp3.1\PrototypeShallow.pdb
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\obj\Debug\netcoreapp3.1\PrototypeShallow.csprojAssemblyReference.cache
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\obj\Debug\netcoreapp3.1\PrototypeShallow.AssemblyInfoInputs.cache
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\obj\Debug\netcoreapp3.1\PrototypeShallow.AssemblyInfo.cs
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\obj\Debug\netcoreapp3.1\PrototypeShallow.dll
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\obj\Debug\netcoreapp3.1\PrototypeShallow.pdb
+C:\Users\Luis Tejeda\Desktop\PatronPrototypeDeepC#\PrototypeDeep\PrototypeDeep\obj\Debug\netcoreapp3.1\PrototypeShallow.genruntimeconfig.cache

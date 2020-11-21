@@ -1,0 +1,12 @@
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\obj\Debug\netcoreapp3.1\PatronComand.csprojAssemblyReference.cache
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\obj\Debug\netcoreapp3.1\PatronComand.AssemblyInfoInputs.cache
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\obj\Debug\netcoreapp3.1\PatronComand.AssemblyInfo.cs
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\bin\Debug\netcoreapp3.1\PatronComand.exe
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\bin\Debug\netcoreapp3.1\PatronComand.deps.json
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\bin\Debug\netcoreapp3.1\PatronComand.runtimeconfig.json
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\bin\Debug\netcoreapp3.1\PatronComand.runtimeconfig.dev.json
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\bin\Debug\netcoreapp3.1\PatronComand.dll
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\bin\Debug\netcoreapp3.1\PatronComand.pdb
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\obj\Debug\netcoreapp3.1\PatronComand.dll
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\obj\Debug\netcoreapp3.1\PatronComand.pdb
+C:\Users\Luis Tejeda\Desktop\PatronComand\PatronComand\obj\Debug\netcoreapp3.1\PatronComand.genruntimeconfig.cache
